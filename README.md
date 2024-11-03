@@ -15,5 +15,7 @@ New Research Trends in the Vision-Language Models Field: A Small Survey (2024), 
 - **Dataset Name 2**: Description of the dataset. [Link](https://example.com)
 - **Dataset Name 3**: Description of the dataset. [Link](https://example.com)
 
+## Reference
+This work is based on and extends the survey presented in [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685) and its [repo](https://github.com/jingyi0000/VLM_survey).
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
