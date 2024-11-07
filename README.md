@@ -6,8 +6,8 @@ New Research Trends in the Vision-Language Models Field: A Small Survey (2024), 
 - **2024-11-02** : Create this repo.
 
 ## Paper List
-1. **Gradient-based learning applied to document recognition**: Author(s), Conference/Journal, Year. [Link]([https://ieeexplore.ieee.org/document/726791])
-2. **Paper Title 2**: Author(s), Conference/Journal, Year. [Link](https://example.com)
+1. **Gradient-based learning applied to document recognition**: Y. Lecun; L. Bottou; Y. Bengio; P. Haffner, Conference/Journal, 1998. [Link]([https://ieeexplore.ieee.org/document/726791])
+2. **Bidirectional recurrent neural networks**: M. Schuster; K.K. Paliwal, Conference/Journal, 1998. [Link](https://ieeexplore.ieee.org/document/650093)
 3. **Paper Title 3**: Author(s), Conference/Journal, Year. [Link](https://example.com)
 
 ## Dataset
