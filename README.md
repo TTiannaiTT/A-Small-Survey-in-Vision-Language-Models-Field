@@ -4,6 +4,7 @@ New Research Trends in the Vision-Language Models Field: A Small Survey (2024), 
 
 ## News
 - **2024-11-02** : Create this repo.
+- **2024-11-07** : Update this repo.
 
 ## Paper List
 1. **Gradient-based learning applied to document recognition**: Y. Lecun; L. Bottou; Y. Bengio; P. Haffner, 1998. [Link](https://ieeexplore.ieee.org/document/726791)
